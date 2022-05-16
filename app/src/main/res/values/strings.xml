@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExamenFintecimal</string>
+
+    <string name="txt_name">Hola ignacio,</string>
+    <string name="txt_greetings_good_morning"> buenos dias!</string>
+    <string name="txt_search_visit">Buscar una vista</string>
+    <string name="txt_visit">Tienes %s visitas por hacer</string>
+
+    <string name="txt_item_visit">Visitada</string>
+    <string name="txt_item_pending">Pendiente</string>
+
+    <string name="txt_visi_complete">¡WOW! Estás al día con tus visitas</string>
+    <string name="txt_alert_more">Te avisaremos cuando haya más</string>
+
+    <string name="txt_list_empty">Lista vacia</string>
+
+    <string name="txt_card_map_nav">Navegar</string>
+    <string name="txt_card_map_do_visit">Realizar visita</string>
+
+</resources>
